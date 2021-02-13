@@ -10,7 +10,7 @@
 <body>
 
 <div>
-    <?php echo __DIR__; ?>
+    <h1 class="tsttxt">Start project</h1>
 </div>
 
 <!-- Scripts -->
