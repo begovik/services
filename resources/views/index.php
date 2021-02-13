@@ -10,7 +10,7 @@
 <body>
 
 <div>
-<h1 class="tsttxt">Start project</h1>
+    <h1 class="tsttxt">Start project</h1>
 </div>
 
 <!-- Scripts -->
