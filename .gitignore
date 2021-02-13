@@ -16,4 +16,5 @@ yarn-error.log
 error_log
 composer.lock
 composer.phar
-.gitignore
+#.gitignore
+.htaccess
